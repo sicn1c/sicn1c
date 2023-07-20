@@ -10,14 +10,10 @@ website:
         text: Home
       - href: photography.qmd
         text: Photography 
-      - href: videography.qmd
-        text: Videography
-      - href: journalism.qmd
-        text: Journalism
-      - href: resume.qmd
-        text: Resume
       - href: teaching.qmd
         text: Teaching
+      - href: resume.qmd
+        text: Resume
     right:
       - icon: github
         href: https://github.com/sicn1c/
