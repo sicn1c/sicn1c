@@ -64,14 +64,16 @@ Content Creation
 * Videography
 * Proficient HTML & CSS coder
 
-Project & Program Management & Coordination
+Project & Program Management|Coordination
 
 * Experienced using a wide range of Content Management Systems (Drupal, Wordpress, etc.)
 * Experienced with various project management software (Airtable, Trello, Asana)
 
-Strategy, Analytics & Reporting
+Analytics & Reporting
 
-* Qualtrics | R | Markdown | Excel
+* Programming languages and software: Excel, Qualtrics, Markdown, R
+* Version control (git)
+
 
 ***
 
@@ -99,5 +101,19 @@ UC Davis Leadership Program <span style="float:right;">quarter year</span>
 
 ### SELECTED AWARDS  
 name  <span style="float:right;"> year</span>  
+
+***
+
+### SERVICE
+
+name  <span style="float:right;"> year</span>  
+
+***
+
+### ORGANIZATIONS
+
+* UC Davis Campus Communicators  <span style="float:right;"> year</span>
+* Capitol Science Communicators  <span style="float:right;"> year</span>
+* American Academy of Underwater Scientists <span style="float:right;"> 2008-2009</span>
 
 ***
