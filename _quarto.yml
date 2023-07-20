@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: photography.qmd
-        text: Photography 
+      - href: portfolio.qmd
+        text: Portfolio 
       - href: teaching.qmd
         text: Teaching
       - href: resume.qmd
