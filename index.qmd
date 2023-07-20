@@ -1,0 +1,14 @@
+---
+title: "Chris J. Nicolini"
+about:
+  template: trestles
+  image: img/profile.jpeg
+---
+
+Experienced Media Professional | Technophile
+
+I am an accomplished communicator with extensive experience in news media production, brand management, digital communications, social media management, analytics monitoring, and strategic planning and implementation. I'm a proven newsroom leader with strong journalistic, analytical, and data-driven decision-making skills.
+
+Currently I serve as the social media coordinator at the University of California, Davis. A polymath by nature, I create and produce multi-media content on a wide variety of topics from primary research and science to student life and the university experience. I'm comfortable working in matrixed organizations and teams, establishing and maintaining diverse partnerships.
+
+I am committed to promoting diversity and equity in public relations and higher education.
