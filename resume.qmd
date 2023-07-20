@@ -1,5 +1,6 @@
 pagetitle: Resume
 title: Chris J. Nicolini
+subtitle: Social Media | Content Producer | Journalist | Newsie
 ---
 
 <style type="text/css">
@@ -55,11 +56,32 @@ University of North Carolina, Pembroke
 
 ### TECHNICAL ACUMEN
 
+Content Creation
+
 * Experienced Copy Editor: The Associated Press Stylebook and Briefing on Media Law
-* Advanced Adobe Photoshopuser with over 20 years of experience
+* Advanced Adobe Photoshop user with over 20 years of experience
 * Proficient with Adobe Creative Cloud Suite
-* Experienced using a wide range of Content Management Systems (CMS)
-* HTML & CSS | iNews | ENPS | etc.
+* Videography
+* Proficient HTML & CSS coder
+
+Project & Program Management & Coordination
+
+* Experienced using a wide range of Content Management Systems (Drupal, Wordpress, etc.)
+* Experienced with various project management software (Airtable, Trello, Asana)
+
+Strategy, Analytics & Reporting
+
+* Qualtrics | R | Markdown | Excel
+
+***
+
+### TEACHING EXPERIENCE   
+
+Instructor |  University of California, Davis   
+  First Year Aggie Connection: Photography for Social Media <span style="float:right;">quarter year</span>  
+
+Instructor |  University of California, Davis   
+  First Year Aggie Connection: Photography <span style="float:right;">quarter year</span>  
 
 ***
 
@@ -69,14 +91,13 @@ University of North Carolina, Pembroke
 
 ***
 
-### TEACHING EXPERIENCE   
+### SELECTED CERTIFICATES & TRAINING
 
-Instructor |  University of California, Davis   
-  First Year Aggie Connection: Photography <span style="float:right;">quarter year</span>  
+UC Davis Leadership Program <span style="float:right;">quarter year</span> 
 
 ***
 
-### SELECTED FELLOWSHIPS & AWARDS  
+### SELECTED AWARDS  
 name  <span style="float:right;"> year</span>  
 
 ***
